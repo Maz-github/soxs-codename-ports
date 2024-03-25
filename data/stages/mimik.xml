@@ -1,0 +1,8 @@
+<stage>
+	<sprite x="-1986" y="-1358" sprite="stages/mimik/bg" type="none" name="shop"/>
+	<gf x="-5141" y="3509"/>
+	<dad x="-326" y="40.5"/>
+	<bf/>
+	<combo x="477" y="308"/>
+	<sprite x="0" y="0" sprite="stages/mimik/viginette" type="none" alpha="1" name="Sack"/>
+</stage>
