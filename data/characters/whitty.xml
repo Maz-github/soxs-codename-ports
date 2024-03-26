@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-character>
+<character x="70" camx="-180" camX="-90" y="400" camy="-380" camY="-400" isPlayer="false" flipX="false" holdTime="4" color="#000000"> <!-- CONVERTED VIA psychjsontocodenamexml.py by Burgerballs -->
+
+   <anim x="181" loop="false" y="412" anim="Whitty idle dance" name="idle"/>
+
+   <anim x="229" loop="false" y="327" anim="whitty sing note right" name="singRIGHT"/>
+
+   <anim x="249" loop="false" y="287" anim="Whitty Sing Note DOWN" name="singDOWN"/>
+
+   <anim x="190" loop="false" y="513" anim="Whitty Sing Note UP" name="singUP"/>
+
+   <anim x="243" loop="false" y="431" anim="Whitty Sing Note LEFT" name="singLEFT"/>
+
+
+</character>

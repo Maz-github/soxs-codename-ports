@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-stage>
+<stage>
+	<sprite x="-704" y="-233" sprite="stages/whitty/BallisticBackground" type="loop" name="myballsitch">
+		<anim x="0" loop="true" y="0" fps="24" anim="Background Whitty Moving" type="loop" name="idle"/>
+	</sprite>
+	<gf x="195.5" y="31"/>
+	<dad x="36.5" y="69"/>
+	<bf x="786.5" y="36"/>
+	<combo x="1021.5" y="246"/>
+</stage>

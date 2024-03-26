@@ -1,0 +1,17 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 100,
+	"difficulties": [
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -16777216,
+	"displayName": "Ballistic",
+	"icon": "whitty",
+	"name": "Ballistic",
+	"color": "#000000",
+	"customValues": {}
+}
