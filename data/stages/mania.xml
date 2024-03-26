@@ -1,0 +1,16 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="stage" folder="">
+	<girlfriend />
+	<dad />
+	<boyfriend />
+
+	<sprite name="cpustrum1"               x="90" y="0"   sprite="strumindieflip"       scroll="0" />
+	<sprite name="cpustrum2"               x="180" y="0"   sprite="strumindie"       scroll="0" />
+	<sprite name="cpustrum3"               x="270" y="0"   sprite="strumindieflip"       scroll="0" />
+	<sprite name="cpustrum4"               x="360" y="0"   sprite="strumindie"       scroll="0" />
+	<sprite name="plrstrum1"               x="90" y="0"   sprite="strumindieflip"       scroll="0" />
+	<sprite name="plrstrum2"               x="180" y="0"   sprite="strumindie"       scroll="0" />
+	<sprite name="plrstrum3"               x="270" y="0"   sprite="strumindieflip"       scroll="0" />
+	<sprite name="plrstrum4"               x="360" y="0"   sprite="strumindie"       scroll="0" />
+
+</stage>

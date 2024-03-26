@@ -3,15 +3,15 @@
 	"opponentModeAllowed": false,
 	"coopAllowed": false,
 	"stepsPerBeat": 4,
-	"bpm": 100,
+	"bpm": 128,
 	"difficulties": [
 		"HARD"
 	],
 	"needsVoices": true,
-	"parsedColor": -6318838,
-	"displayName": "Eerie melody",
-	"icon": "yeahhh",
-	"name": "Eerie melody",
-	"color": "#9F950A",
+	"parsedColor": -7376387,
+	"displayName": "Dash",
+	"icon": "gdash",
+	"name": "Dash",
+	"color": "#8F71FD",
 	"customValues": {}
 }
